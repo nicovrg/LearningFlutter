@@ -1,4 +1,4 @@
-package com.example.Rettulf
+package com.example.rettulf
 
 import io.flutter.embedding.android.FlutterActivity
 
